@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    text-shadow: 3px 2px 2px rgb(0, 234, 255), -3px 3px 2px rgb(255, 78, 217);
+    line-height: 1,2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    height: 100dvh;
+    margin: 0;
+}
